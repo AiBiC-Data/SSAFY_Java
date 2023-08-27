@@ -1,10 +1,10 @@
-package com.ssafy.graph;
+package sol;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main_3109_G2_빵집_조권호 {
+public class G3109 {
 	static int ans, C, R;
 	static char[][] map;
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

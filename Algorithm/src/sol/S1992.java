@@ -1,4 +1,4 @@
-package com.ssafy.graph;
+package sol;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package graph;
+package sol;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
